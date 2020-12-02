@@ -101,7 +101,7 @@ header {
     border: 1px solid black;
     
     position: absolute; 
-    top: -5em; 
+    top: 5em; 
     left: 80px;
 
     display:flex;

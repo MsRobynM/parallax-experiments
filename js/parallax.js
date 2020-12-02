@@ -13,5 +13,5 @@ function parallax() {
 
   $('.parallax--box2').css('bottom', -4 - (wScroll*.015)+'em');
 
-  $('.parallax--box3').css('top', -5 - (wScroll*.015)+'em')
+  $('.parallax--box3').css('top', 5 - (wScroll*.015)+'em')
 }
